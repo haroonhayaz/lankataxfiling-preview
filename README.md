@@ -1,5 +1,5 @@
 # Lanka Tax Estimator — Hosted test preview
 
-Serves the production build from `haroonhayaz/lankataxfiling` @ `0f2c16b2817dcaf7d4f57fd1776db589adca6528`.
-Adds fixed-width plain-text TXT bank statement import (HAY-55) and fixes the
-premium AI categorizer erasing recognized income (HAY-56).
+Serves the production build from `haroonhayaz/lankataxfiling` @ `5a8b457d509d9e25f1098c6a19c88e805716256f`.
+HAY-58: fixes the Deductions & reliefs label/value alignment by nesting the
+statutory personal-relief explanation inside its owning row (no change to tax math).
